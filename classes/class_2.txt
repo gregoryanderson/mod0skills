@@ -1,0 +1,9 @@
+Staff
+
+Weekly_hours (integer)
+Staff_type (string)
+weekend_availability (boolean)
+
+Switch_shift (Switches work hours with another staff member of same type)
+Add_responsibility (Adds a duty to that employee)
+Promote_employee (Adds new title and responsibility to employee)

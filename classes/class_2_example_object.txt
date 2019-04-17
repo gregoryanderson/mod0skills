@@ -1,0 +1,9 @@
+Charlie
+
+Weekly_hours= 40
+Staff_type= cook
+weekend_availability= true
+
+switch_shift= working Tom's shift Monday. Tom will work Sunday.
+Add_responsibility= clean kitchen
+Promote_employee= cook, kitchen manager. Responsible for all duties assigned to Kitchen manager.
