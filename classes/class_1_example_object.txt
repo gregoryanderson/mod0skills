@@ -1,0 +1,9 @@
+Pizza
+
+Daily_Special= pepperoni
+Number_of_toppings= 10 different types of toppings
+Vegetarian= false
+
+Order_meal= 1 slice of pepperoni Pizza
+Change_special= pepperoni changes to sausage
+Modify_dish= extra cheese

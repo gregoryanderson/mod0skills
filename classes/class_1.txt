@@ -1,7 +1,7 @@
 Meals
 
 Daily_Special (String)
-Number_of_meals (Integer)
+Number_of_toppings (Integer)
 Vegetarian (Boolean)
 
 Order_meal (takes customer order and initializes order)
