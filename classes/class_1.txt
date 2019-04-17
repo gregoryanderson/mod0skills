@@ -1,0 +1,9 @@
+Meals
+
+Daily_Special (String)
+Number_of_meals (Integer)
+Vegetarian (Boolean)
+
+Order_meal (takes customer order and initializes order)
+Change_special (changes what is offered for the daily special)
+Modify_Dish (modifies the dish to the special instructions/diets of the customer)
