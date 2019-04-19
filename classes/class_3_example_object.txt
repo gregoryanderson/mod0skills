@@ -1,0 +1,12 @@
+Guaranty Building
+
+Number_of_floors (integer)= 13
+Residential (boolean)= False
+Nearby_streets (array)= Market, 17th, Larimer
+Architectural_style (string)= Modern
+Building_type (string)= High-rise
+
+Change_ownership= Changes ownership from one company to another
+Begin_renovation= Begins a renovation for parts of the building
+Host_event= Hosts event within the building
+Add_resident= Adds a resident/company to the building's roster
