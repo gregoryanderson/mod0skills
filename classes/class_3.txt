@@ -1,0 +1,12 @@
+Buildings
+
+Number_of_floors (integer)
+Residential (boolean)
+Nearby_streets (array)
+Architectural_style (string)
+Building_type (string)
+
+Change_ownership
+Begin_renovation
+Host_event
+Add_resident
