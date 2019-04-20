@@ -6,7 +6,7 @@ Nearby_streets (array)
 Architectural_style (string)
 Building_type (string)
 
-Change_ownership
-Begin_renovation
-Host_event
-Add_resident
+Change_ownership= Changes ownership from one owner to another
+Begin_renovation= Begins renovation in a within the building
+Host_event= Hosts an event within the building
+Add_resident= Adds a resident to the building's roster
