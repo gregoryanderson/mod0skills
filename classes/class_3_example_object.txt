@@ -6,7 +6,7 @@ Nearby_streets (array)= Market, 17th, Larimer
 Architectural_style (string)= Modern
 Building_type (string)= High-rise
 
-Change_ownership= Changes ownership from one company to another
-Begin_renovation= Begins a renovation for parts of the building
-Host_event= Hosts event within the building
-Add_resident= Adds a resident/company to the building's roster
+Change_ownership= Ownership changed from Guaranty to Turing
+Begin_renovation= Renovation begins in the basement
+Host_event= Event hosted on the top floor conference room
+Add_resident= New resident, ABC Banking, added to building roster
