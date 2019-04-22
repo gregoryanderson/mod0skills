@@ -32,7 +32,7 @@
 ---
 6. *At the table*
 + Receive menus from host/ess
-+ Look at menu
++ **Look at menu**
 + Ask questions about food options
 + Decide on meal
 + Order meal from waiter/waitress
@@ -47,3 +47,13 @@
 + Receive meal
 + Add any additional requests (i.e., May I have some hot sauce?)
 + Eat meal
+
+
+*Look at Menu* Breakdown
++ Pick up Menu from Table
++ Examine Cover Page
++ Open Menu 
++ Read and rate food options starting with first food option. This original food option becomes the 'Desired Food Option'. 
++ Continue reading the menu and upon reading a different food option that rates as more desirable than the designated 'Desired Food Option', the new food option becomes the 'Desired Food Option'.
++ Once you have finished the first page of the menu, continue the process until you have read the entire menu and come away with the most desirable dish known as the, 'Desired Food Option'
++ If necessary, complete the same process with the drink menu, but swapping 'Desired Food Option' with 'Desired Drink Option'.
